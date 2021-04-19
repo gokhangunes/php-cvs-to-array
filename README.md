@@ -15,3 +15,5 @@ $file->setFileName("data.csv");
 print_r($file->toArray());
 
 ```
+
+Csv dosyasını php ile açma, diziye dönüştürme kodu
