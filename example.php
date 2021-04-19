@@ -1,5 +1,5 @@
 <?php
-    include('CVS.php');
+    include('CVS_ARRAY.php');
 
     try {
         $file = new CVS_ARRAY();

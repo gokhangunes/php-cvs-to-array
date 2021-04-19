@@ -15,7 +15,7 @@ class CVS_ARRAY
     protected $filename;
 
     /**
-     * @var string
+     * @var array
      */
     protected $content;
 
